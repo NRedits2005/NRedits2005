@@ -1,3 +1,4 @@
+![Banner](https://naveenrajkportfolio.netlify.app/)
 # Hi, I'm Naveen 👋
 
 💻 AI / ML Developer  
