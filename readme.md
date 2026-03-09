@@ -28,5 +28,5 @@
 
 ## 📫 Contact
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: add link
+- GitHub: https://github.com/NRedits2005
+- LinkedIn: https://www.linkedin.com/in/k-naveen-raj-38532a297/
