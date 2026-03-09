@@ -8,17 +8,6 @@
 
 ---
 
-## 🧠 Skills
-
-- Python
-- Machine Learning
-- Deep Learning
-- Flask
-- TensorFlow
-- OpenCV
-
----
-
 ## 🚀 Projects
 
 - AI Hand Gesture Volume Control
@@ -28,7 +17,16 @@
 
 ---
 
-## 📫 Contact
+### Connect with me
+[LinkedIn](https://www.linkedin.com/in/k-naveen-raj-38532a297/)  
+[Portfolio](https://naveenrajkportfolio.netlify.app/)
+[Instagram](https://www.instagram.com/naveenraj_official2005/)
+---
 
-- GitHub: https://github.com/NRedits2005
-- LinkedIn: https://www.linkedin.com/in/k-naveen-raj-38532a297/
+## 🧠 Skills
+![Python](https://img.shields.io/badge/Python-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
+![Flask](https://img.shields.io/badge/Flask-black)
+![OpenCV](https://img.shields.io/badge/OpenCV-green)
+---
+
