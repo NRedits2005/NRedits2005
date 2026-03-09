@@ -1,4 +1,5 @@
-![Banner](https://naveenrajkportfolio.netlify.app/)
+<img width="3762" height="941" alt="LinkedIn banner" src="https://github.com/user-attachments/assets/4878f3ef-deec-4884-8ae2-b672f80a2200" />
+
 # Hi, I'm Naveen 👋
 
 💻 AI / ML Developer  
