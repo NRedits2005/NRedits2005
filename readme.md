@@ -16,7 +16,6 @@
 - Smart Voice Assistant
 
 ---
-
 ### Connect with me
 [LinkedIn](https://www.linkedin.com/in/k-naveen-raj-38532a297/)  
 [Portfolio](https://naveenrajkportfolio.netlify.app/)
