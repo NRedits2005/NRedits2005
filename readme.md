@@ -17,7 +17,7 @@
 
 ---
 ### Connect with me
-[LinkedIn](https://www.linkedin.com/in/k-naveen-raj-38532a297/)  
+![LinkedIn](https://www.linkedin.com/in/k-naveen-raj-38532a297/)  
 [Portfolio](https://naveenrajkportfolio.netlify.app/)
 [Instagram](https://www.instagram.com/naveenraj_official2005/)
 
