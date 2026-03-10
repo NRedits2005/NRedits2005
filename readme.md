@@ -1,19 +1,28 @@
 ![Banner](https://github.com/user-attachments/assets/4878f3ef-deec-4884-8ae2-b672f80a2200)
 # Hi, I'm Naveen Raj K 👋 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NRedits2005&theme=tokyo-night&color=9F4CFF&line=9F4CFF&point=FFFFFF)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9F4CFF&center=true&vCenter=true&lines=AI+%2F+ML+Developer;Deep+Learning+Enthusiast;Python+Developer;Building+AI+Projects)
 
 ---
 
 ## 🧠 Skills
-![Python](https://img.shields.io/badge/Python-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
-![Flask](https://img.shields.io/badge/Flask-black)
-![OpenCV](https://img.shields.io/badge/OpenCV-green)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,flask,opencv,git,github,vscode,html,css,js" />
+</p>
 
 ---
 
 ## Contributions
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NRedits2005&theme=tokyo-night&color=9F4CFF&line=9F4CFF&point=FFFFFF)
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+## GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=NRedits2005&theme=tokyonight&ring=9F4CFF&fire=9F4CFF)
+
+---
+
+## Languages Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NRedits2005&layout=compact&theme=tokyonight)
 
 ---
 
