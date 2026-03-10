@@ -21,6 +21,11 @@
 
 ---
 
+## Vistor Counter
+![Profile Views](https://komarev.com/ghpvc/?username=NRedits2005&color=blueviolet)
+
+---
+
 ## Languages Used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NRedits2005&layout=compact&theme=tokyonight)
 
