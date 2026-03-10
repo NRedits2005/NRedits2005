@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Projects
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NRedits2005&repo=gesture-volume-control)](https://github.com/NRedits2005/gesture-volume-control)
 - AI Hand Gesture Volume Control
 - Eye Disease Detection using CNN
 - Weather Chatbot with Gemini
@@ -17,7 +17,7 @@
 
 ---
 ### Connect with me
-![LinkedIn](https://www.linkedin.com/in/k-naveen-raj-38532a297/)  
+[LinkedIn](https://www.linkedin.com/in/k-naveen-raj-38532a297/)  
 [Portfolio](https://naveenrajkportfolio.netlify.app/)
 [Instagram](https://www.instagram.com/naveenraj_official2005/)
 
