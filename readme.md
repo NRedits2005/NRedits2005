@@ -1,4 +1,4 @@
-<img width="3762" height="941" alt="LinkedIn banner" src="https://github.com/user-attachments/assets/4878f3ef-deec-4884-8ae2-b672f80a2200" />
+![Banner](https://github.com/user-attachments/assets/4878f3ef-deec-4884-8ae2-b672f80a2200)
 
 # Hi, I'm Naveen Raj K 👋
 
@@ -13,8 +13,9 @@
 - Eye Disease Detection using CNN
 - Weather Chatbot with Gemini
 - Smart Voice Assistant
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 ---
+
 ### Connect with me
 [LinkedIn](https://www.linkedin.com/in/k-naveen-raj-38532a297/)  
 [Portfolio](https://naveenrajkportfolio.netlify.app/)
@@ -29,4 +30,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-green)
 
 ---
+## Contributions
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
+---
