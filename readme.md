@@ -1,5 +1,4 @@
 ![Banner](https://github.com/user-attachments/assets/4878f3ef-deec-4884-8ae2-b672f80a2200)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NRedits2005&theme=purple_dark)
 # Hi, I'm Naveen Raj K 👋 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+ML+Developer;Python+Developer;Deep+Learning+Enthusiast;Building+AI+Projects&center=true&width=500&height=50)
 
@@ -14,7 +13,6 @@
 ---
 
 ## Contributions
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NRedits2005&theme=purple_dark)
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
