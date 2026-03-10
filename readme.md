@@ -22,8 +22,8 @@
 ---
 
 ### Connect with me
-Portfolio | [Portfolio](https://naveenrajkportfolio.netlify.app/)
-LinkedIn  | [LinkedIn](https://www.linkedin.com/in/k-naveen-raj-38532a297/)
-Instagram | [Instagram](https://www.instagram.com/naveenraj_official2005/)
+Portfolio | [Portfolio](https://naveenrajkportfolio.netlify.app/)  
+LinkedIn  | [LinkedIn](https://www.linkedin.com/in/k-naveen-raj-38532a297/)  
+Instagram | [Instagram](https://www.instagram.com/naveenraj_official2005/)  
 
 ---
