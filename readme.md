@@ -20,6 +20,7 @@
 [LinkedIn](https://www.linkedin.com/in/k-naveen-raj-38532a297/)  
 [Portfolio](https://naveenrajkportfolio.netlify.app/)
 [Instagram](https://www.instagram.com/naveenraj_official2005/)
+
 ---
 
 ## 🧠 Skills
@@ -27,5 +28,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
 ![Flask](https://img.shields.io/badge/Flask-black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-green)
+
 ---
 
