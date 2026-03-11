@@ -10,13 +10,11 @@
 </p>
 
 ---
-
-## 🤖 AI / ML Tools I Use
+## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,jupyter"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NRedits2005&theme=tokyonight&column=6&margin-w=15&margin-h=15"/>
 </p>
-
 ---
 
 ## Contributions
