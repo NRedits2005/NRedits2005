@@ -8,7 +8,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9F4CFF&center=true&vCenter=true&lines=AI+%2F+ML+Developer;Deep+Learning+Enthusiast;Python+Developer;Building+AI+Projects)
 
 ---
-<img src="https://capsule-render.vercel.app/api?type=rect&color=9F4CFF&height=2"/>
+
 ## 🧠 Skills
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,flask,opencv,git,github,vscode,html,css,js" />
