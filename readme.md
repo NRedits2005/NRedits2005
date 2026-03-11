@@ -3,17 +3,17 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9F4CFF&center=true&vCenter=true&lines=AI+%2F+ML+Developer;Deep+Learning+Enthusiast;Python+Developer;Building+AI+Projects)
 
 ---
+## 💡 Developer Quote
+
+<p align="center">
+<i>"First solve the problem, then write the code."</i> – John Johnson
+</p>
+
+---
 
 ## 🧠 Skills
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,flask,opencv,git,github,vscode,html,css,js" />
-</p>
-
----
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NRedits2005&theme=tokyonight&column=6&margin-w=15&margin-h=15"/>
 </p>
 
 ---
