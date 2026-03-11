@@ -1,8 +1,10 @@
 ![Banner](https://github.com/user-attachments/assets/4878f3ef-deec-4884-8ae2-b672f80a2200)
 # Hi, I'm Naveen Raj K 👋
+
 <p align="center">
 <i>"First solve the problem, then write the code."</i> – John Johnson
 </p>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9F4CFF&center=true&vCenter=true&lines=AI+%2F+ML+Developer;Deep+Learning+Enthusiast;Python+Developer;Building+AI+Projects)
 
 ---
