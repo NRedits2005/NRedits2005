@@ -11,8 +11,11 @@
 
 ---
 
-## 💻 Coding Activity
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NRedits2005&theme=tokyonight&ring=9F4CFF&fire=9F4CFF"/>
+## 🤖 AI / ML Tools I Use
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,jupyter"/>
+</p>
 
 ---
 
