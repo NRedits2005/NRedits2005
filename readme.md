@@ -12,9 +12,7 @@
 ---
 
 ## 💻 Coding Activity
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NRedits2005&theme=tokyonight&ring=9F4CFF&fire=9F4CFF"/>
-</p>
 
 ---
 
