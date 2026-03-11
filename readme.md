@@ -1,16 +1,12 @@
 ![Banner](https://github.com/user-attachments/assets/4878f3ef-deec-4884-8ae2-b672f80a2200)
-# Hi, I'm Naveen Raj K 👋 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9F4CFF&center=true&vCenter=true&lines=AI+%2F+ML+Developer;Deep+Learning+Enthusiast;Python+Developer;Building+AI+Projects)
-
----
-## 💡 Developer Quote
-
+# Hi, I'm Naveen Raj K 👋
 <p align="center">
 <i>"First solve the problem, then write the code."</i> – John Johnson
 </p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9F4CFF&center=true&vCenter=true&lines=AI+%2F+ML+Developer;Deep+Learning+Enthusiast;Python+Developer;Building+AI+Projects)
 
 ---
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=9F4CFF&height=2"/>
 ## 🧠 Skills
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,flask,opencv,git,github,vscode,html,css,js" />
