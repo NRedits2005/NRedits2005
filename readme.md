@@ -11,6 +11,13 @@
 
 ---
 
+## 💻 Coding Activity
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NRedits2005&theme=tokyonight&ring=9F4CFF&fire=9F4CFF"/>
+</p>
+
+---
+
 ## Contributions
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NRedits2005&theme=tokyo-night&color=9F4CFF&line=9F4CFF&point=FFFFFF)
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
